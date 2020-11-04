@@ -1,0 +1,52 @@
+h1{
+    color:#bbf3ea,
+
+}
+h3{
+    color:#bbf3ea,
+
+}
+.link{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.title{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.header{
+    background-color: #bbf3ea;
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    background-color: #bbf3ea;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    flex-grow: initial;
+    justify-content: initial;
+}
+p,h2{
+    text-align: center;
+}
+.colour{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+body{
+    background-color: #bbf3ea;
+}
